@@ -32,10 +32,11 @@ body {
 }
 
 @media (max-width:768px) {
-  .main-page__header { text-align: center;
+  .main-page__header {
+	text-align: center;
+}
 }
 
-}
 .main-page__element {
   display: block;
   width: 500px;
